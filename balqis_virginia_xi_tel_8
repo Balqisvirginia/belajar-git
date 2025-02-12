@@ -1,5 +1,5 @@
 void main() {
-  var name = "Vinza";
+  var name = "balqis";
   print(name);
 
   int tinggi = 10;
